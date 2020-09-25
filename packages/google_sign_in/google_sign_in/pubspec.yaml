@@ -14,7 +14,7 @@ flutter:
         pluginClass: FLTGoogleSignInPlugin
       web:
         default_package: google_sign_in_web
-
+ 
 dependencies:
   flutter:
     sdk: flutter
